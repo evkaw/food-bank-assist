@@ -1,0 +1,6 @@
+googlemaps==4.5.3
+geopy==2.3.0
+geocoder==1.38.1
+opencv-python==4.5.5.64
+pyzbar==0.1.9
+requests==2.31.0
