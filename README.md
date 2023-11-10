@@ -29,4 +29,4 @@
 
 ### Warning
 
-Trying to compile the program yourself instead of using [`final_draft.py`]() might result in unexpected errors/complications; so please use this file for execution.
+Trying to compile the program yourself instead of using [`food_bank_locator.py`](https://github.com/evkaw/food-bank-locator/blob/main/food_bank_locator.py) might result in unexpected errors/complications; so please use this file for execution.
