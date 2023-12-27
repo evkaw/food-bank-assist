@@ -8,7 +8,7 @@ https://github.com/evkaw/charity-finder/assets/82726788/000295ae-17f0-4636-9f9e-
 
 ## Instructions (for MacOS, Windows & Linux)
 1. Install the required libraries using `pip install -r requirements.txt`
-2. Obtain a [Google Maps API key](https://developers.google.com/maps/documentation/embed/get-api-key) & enter it for the `API_KEY` constant in the [`charity_finder.py`](https://github.com/evkaw/food-bank-locator/blob/main/charity_finder.py) file.
+2. Obtain a [Google Maps API key](https://developers.google.com/maps/documentation/embed/get-api-key) & enter it for the `API_KEY` constant in the [`charity_finder.py`](https://github.com/evkaw/charity-finder/blob/main/charity_finder.py) file.
 
 ## Usage
 
@@ -35,6 +35,6 @@ https://github.com/evkaw/charity-finder/assets/82726788/000295ae-17f0-4636-9f9e-
 
 ### Warning
 
-Trying to compile the program yourself instead of using [`food_bank_locator.py`](https://github.com/evkaw/food-bank-locator/blob/main/food_bank_locator.py) might result in unexpected errors/complications; so please use this file for execution.
+Trying to compile the program yourself instead of using [`charity_finder.py`](https://github.com/evkaw/charity-finder/blob/main/charity_finder.py) might result in unexpected errors/complications; so please use this file for execution.
 
 <img src="https://github.com/evkaw/charity-finder/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=30% height=30%><img src="https://github.com/evkaw/charity-finder/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=30% height=30%><img src="https://github.com/evkaw/charity-finder/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=30% height=30%>
