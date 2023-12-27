@@ -2,9 +2,9 @@
 
 ## Install from [releases](https://github.com/evkaw/charity-finder/releases/tag/release) for Android. (no API key required!)
 
-<img src="https://github.com/evkaw/charity-finder/blob/main/image1.png" width=20% height=20%><img src="https://github.com/evkaw/charity-finder/blob/main/image2.png" width=20% height=20%>
-<img src="https://github.com/evkaw/charity-finder/blob/main/image3.png" width=20% height=20%>
-<img src="https://github.com/evkaw/charity-finder/blob/main/image4.png" width=20% height=20%>
+<img src="https://github.com/evkaw/charity-finder/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image5.png" width=20% height=20%>
+
+[![Watch the video](https://github.com/evkaw/charity-finder/blob/main/github_sample.mov)
 
 
 ## Instructions (for MacOS, Windows & Linux)
