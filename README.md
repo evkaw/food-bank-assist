@@ -8,7 +8,7 @@ https://github.com/evkaw/charity-finder/assets/82726788/000295ae-17f0-4636-9f9e-
 
 ## Instructions (for MacOS, Windows & Linux)
 1. Install the required libraries using `pip install -r requirements.txt`
-2. Obtain a [Google Maps API key](https://developers.google.com/maps/documentation/embed/get-api-key) & enter it for the `API_KEY` constant in the [`food_bank_locator.py`](https://github.com/evkaw/food-bank-locator/blob/main/food_bank_locator.py) file.
+2. Obtain a [Google Maps API key](https://developers.google.com/maps/documentation/embed/get-api-key) & enter it for the `API_KEY` constant in the [`charity_finder.py`](https://github.com/evkaw/food-bank-locator/blob/main/food_bank_locator.py) file.
 
 ## Usage
 
