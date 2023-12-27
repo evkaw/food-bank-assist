@@ -4,7 +4,7 @@
 
 <img src="https://github.com/evkaw/charity-finder/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image5.png" width=20% height=20%>
 
-[![Watch the video](https://github.com/evkaw/charity-finder/blob/main/github_sample.mov)
+https://github.com/evkaw/charity-finder/assets/82726788/12d1cef2-750d-4ef0-aa88-b6d312721a56
 
 
 ## Instructions (for MacOS, Windows & Linux)
