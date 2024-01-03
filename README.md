@@ -1,4 +1,4 @@
-# Charity Finder (Food Bank Locator & Food List Generator)
+# Charity Finder (Food Bank Locator & Food Inventory Generator)
 
 ## Install from [releases](https://github.com/evkaw/charity-finder/releases/tag/release) for Android. (no API key required!)
 
@@ -19,7 +19,7 @@ https://github.com/evkaw/charity-finder/assets/82726788/000295ae-17f0-4636-9f9e-
 - Click the "Search Food Banks" button to retrieve nearby food banks.
 - The food banks will be displayed in the listbox. Double-click on a food bank to open its location on Google Maps.
 
-### Food Inventory:
+### Food Inventory Generator:
 
 - Enter a food item in the "Food Item" field and click the "Add Item" button to add it to the inventory.
 - Select an item from the inventory list and click the "Remove Item" button to remove it from the inventory.
