@@ -8,7 +8,7 @@
 
 https://github.com/evkaw/food-bank-assist/assets/82726788/000295ae-17f0-4636-9f9e-91f69440576f
 
-### MacOS, Linux, Windows (Windows will look similar)
+### MacOS, Linux & Windows (Windows will look similar)
 <img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=33% height=33%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=33% height=33%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=33% height=33%>
 
 ## Usage
