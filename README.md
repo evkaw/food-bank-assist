@@ -1,16 +1,7 @@
-# Food Bank Assist (Food Bank Locator & Food Inventory Generator)
+# Food Bank Assist
 <kbd> <img src="https://github.com/evkaw/food-bank-assist/assets/82726788/dbec96e6-e8e7-43b7-a34a-227fa425e25f" width="10%" height="10%"> <kbd> 
 
 ## Install from [releases](https://github.com/evkaw/food-bank-assist/releases/tag/release) for newest application. (no API key required!)
-
-### Android:
-
-<img src="https://github.com/evkaw/food-bank-assist/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image5.png" width=20% height=20%>
-
-https://github.com/evkaw/food-bank-assist/assets/82726788/000295ae-17f0-4636-9f9e-91f69440576f
-
-### MacOS, Linux & Windows (Windows will look similar)
-<img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=33% height=33%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=33% height=33%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=33% height=33%>
 
 ## Usage
 
@@ -28,8 +19,18 @@ https://github.com/evkaw/food-bank-assist/assets/82726788/000295ae-17f0-4636-9f9
 - Click the "Search on Walmart" button to search for the entered food item on Walmart's online grocery section.
 - Click the "Search on Open Food Facts" button to search for the entered food item on Open Food Facts's online database.
 - Click the "Scan Barcode" button to scan a barcode using your computer's camera and retrieve the food item information.
-
 - The entered-in/scanned food item will be marked green or red in font color based on its nutritious values & it's grade on the NOVA scale, which ranks foods for their processed levels.
+
+## Preview
+
+### Android:
+
+<img src="https://github.com/evkaw/food-bank-assist/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image5.png" width=20% height=20%>
+
+https://github.com/evkaw/food-bank-assist/assets/82726788/000295ae-17f0-4636-9f9e-91f69440576f
+
+### MacOS, Linux & Windows (Windows will look similar)
+<img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=33% height=33%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=33% height=33%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=33% height=33%>
 
 ## Styling
 
