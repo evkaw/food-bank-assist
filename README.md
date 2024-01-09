@@ -1,14 +1,12 @@
-# Charity Finder (Food Bank Locator & Food Inventory Generator)
+# Food Bank Utility (Food Bank Locator & Food Inventory Generator)
 
-## Install from [releases](https://github.com/evkaw/charity-finder/releases/tag/release) for Android. (no API key required!)
+## Install from [releases](https://github.com/evkaw/food-bank-utility/releases/tag/release) for application version. (no API key required!)
 
-<img src="https://github.com/evkaw/charity-finder/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/charity-finder/blob/main/image5.png" width=20% height=20%>
+<img src="https://github.com/evkaw/food-bank-utility/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-utility/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-utility/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-utility/blob/main/image5.png" width=20% height=20%>
 
-https://github.com/evkaw/charity-finder/assets/82726788/000295ae-17f0-4636-9f9e-91f69440576f
+https://github.com/evkaw/food-bank-utility/assets/82726788/000295ae-17f0-4636-9f9e-91f69440576f
 
-## Instructions (for MacOS, Windows & Linux)
-1. Install the required libraries using `pip install -r requirements.txt`
-2. Obtain a [Google Maps API key](https://developers.google.com/maps/documentation/embed/get-api-key) & enter it for the `API_KEY` constant in the [`charity_finder.py`](https://github.com/evkaw/charity-finder/blob/main/charity_finder.py) file.
+<img src="https://github.com/evkaw/food-bank-utility/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=30% height=30%><img src="https://github.com/evkaw/food-bank-utility/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=30% height=30%><img src="https://github.com/evkaw/food-bank-utility/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=30% height=30%>
 
 ## Usage
 
@@ -35,6 +33,8 @@ https://github.com/evkaw/charity-finder/assets/82726788/000295ae-17f0-4636-9f9e-
 
 ### Warning
 
-Trying to compile the program yourself instead of using [`charity_finder.py`](https://github.com/evkaw/charity-finder/blob/main/charity_finder.py) might result in unexpected errors/complications; so please use this file for execution.
+Trying to compile the program yourself instead of using [`food_bank_utility.py`](https://github.com/evkaw/food-bank-utility/blob/main/food_bank_utility.py) might result in unexpected errors/complications; so please use this file for execution.
 
-<img src="https://github.com/evkaw/charity-finder/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=30% height=30%><img src="https://github.com/evkaw/charity-finder/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=30% height=30%><img src="https://github.com/evkaw/charity-finder/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=30% height=30%>
+## Manual Build Instructions
+1. Install the required libraries using `pip install -r requirements.txt`
+2. Obtain a [Google Maps API key](https://developers.google.com/maps/documentation/embed/get-api-key) & enter it for the `API_KEY` constant in the [`food_bank_utility.py`](https://github.com/evkaw/food-bank-utility/blob/main/food_bank_utility.py) file.
