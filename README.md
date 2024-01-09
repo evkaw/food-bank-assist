@@ -1,6 +1,6 @@
 # Food Bank Assist (Food Bank Locator & Food Inventory Generator)
 
-## Install from [releases](https://github.com/evkaw/food-bank-assist/releases/tag/release) for application version. (no API key required!)
+## Install from [releases](https://github.com/evkaw/food-bank-assist/releases/tag/release) for newest application. (no API key required!)
 
 <img src="https://github.com/evkaw/food-bank-assist/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image5.png" width=20% height=20%>
 
