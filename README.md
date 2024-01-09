@@ -2,10 +2,13 @@
 
 ## Install from [releases](https://github.com/evkaw/food-bank-assist/releases/tag/release) for newest application. (no API key required!)
 
+### Android:
+
 <img src="https://github.com/evkaw/food-bank-assist/blob/main/image4.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image1.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image3.png" width=20% height=20%> <img src="https://github.com/evkaw/food-bank-assist/blob/main/image5.png" width=20% height=20%>
 
 https://github.com/evkaw/food-bank-assist/assets/82726788/000295ae-17f0-4636-9f9e-91f69440576f
 
+### MacOS (Applicable to Linux & Windows)
 <img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ad2239b2-e7e0-48a7-878c-244486c4f3bb" width=30% height=30%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/ac161f30-5ea0-4069-a22f-740552dc2c05" width=30% height=30%><img src="https://github.com/evkaw/food-bank-assist/assets/82726788/70316412-8d7b-41e3-8723-748e4861e7fd" width=30% height=30%>
 
 ## Usage
