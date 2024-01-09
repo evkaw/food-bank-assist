@@ -1,7 +1,7 @@
 # Food Bank Assist
 <kbd> <img src="https://github.com/evkaw/food-bank-assist/assets/82726788/dbec96e6-e8e7-43b7-a34a-227fa425e25f" width="10%" height="10%"> <kbd> 
 
-## Install from [releases](https://github.com/evkaw/food-bank-assist/releases/tag/release) for newest application. (no API key required!)
+## Install from [releases](https://github.com/evkaw/food-bank-assist/releases/tag/release) to download the newest version of the application. (no API key required!)
 
 ## Usage
 
